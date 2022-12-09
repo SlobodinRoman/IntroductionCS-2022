@@ -1,0 +1,15 @@
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/bin/Debug/net6.0/25
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/bin/Debug/net6.0/25.deps.json
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/bin/Debug/net6.0/25.runtimeconfig.json
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/bin/Debug/net6.0/25.dll
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/bin/Debug/net6.0/25.pdb
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/25.csproj.AssemblyReference.cache
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/25.AssemblyInfoInputs.cache
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/25.AssemblyInfo.cs
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/25.csproj.CoreCompileInputs.cache
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/25.dll
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/refint/25.dll
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/25.pdb
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/25.genruntimeconfig.cache
+/Users/annaslobodina/Desktop/SRS/IntroductionCS-20221111/25/obj/Debug/net6.0/ref/25.dll
